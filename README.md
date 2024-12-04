@@ -70,7 +70,7 @@ LED ON
 ![Screenshot 2024-12-04 154056](https://github.com/user-attachments/assets/0b40ac6f-16fb-4b8b-8ce5-8a93426500b8)
 
 ## NAME : Tharrun D
-## Register Number : 24900645
+## Register Number : 24900893
 
 ## RESULT
 Designed and implemented a system for LED control using an arduino microcontroller and a push button successfully.
